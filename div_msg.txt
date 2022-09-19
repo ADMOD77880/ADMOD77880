@@ -1,0 +1,1 @@
+{'num': '1'، 'msgs': '\ n هذا التطبيق مجاني ولا يكلفك أي شي! \ n تأكد داماً انك تستخدم نسخة واتساب أحمد الاصلية! \ n \ n ولا تقم بتحميل الواتساب من موقع اخر غير موقعناء. \ n \nThis app is free and doesn't cost you anything! \ nAlways make sure that you are using the original version of WhatsApp Ahmed! \ n \ nDo not download WhatsApp from a site other than our site. \n '}
